@@ -1,0 +1,17 @@
+
+Description of some sensors
+
+whole datasets
+
+https://www.kaggle.com/nphantawee/pump-sensor-data
+
+
+About it, I remember only this,
+s01,s02, s03, s11 --> psi
+s21, 23, 25, 26 ,28,31,     44, 50, 51 ->  l/min,  main pipe
+s04, 14, 16,17, 19, 20, 22, 27,30-> l/min,  little pipes
+s00, s18 ->m, level tank1, tank 2
+s15-> broken
+
+I'm going to search more info.
+bye, kaggle user
